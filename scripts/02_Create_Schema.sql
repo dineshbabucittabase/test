@@ -1,0 +1,1 @@
+CREATE OR ALTER SCHEMA {{environment}}.LOAD;
